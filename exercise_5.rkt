@@ -35,7 +35,3 @@
 
 (define (transpose m)
   (apply map list m))
-  
-(define (image? l1 l2)
-  (define mp (map (lambda (x y) (- x y)) l1 l2))
-  (equal? mp (reverse mp)))
