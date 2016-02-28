@@ -28,3 +28,19 @@
 	* Task8. Write a function 8(increasing? n):
 		(increasing? 12489) -> #t
 		(increasing? 4456) -> #f
+
+* exercise_4 - Higher order functions
+
+* exercise_5 - Lists
+
+* exercise_6 - Deep Lists. Trees
+
+* exercise_7 - Preparation for the first test
+
+* exercise_8 - Solved problems from the test
+
+* exercise_9 - Streams
+
+* exercise_10 - Introduction to Haskell
+
+
