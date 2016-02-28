@@ -24,6 +24,8 @@
 
 * exercise_13 - Lists and higher order functions
 
-* exercise_14 - Solved problems from the second test
+* exercise_14 - Graphs(Scheme)
+
+* exercise_15 - Solved problems from the second test
 
 
